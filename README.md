@@ -12,4 +12,4 @@
 
 <br>
 
-My name is Adam Yarris, a freshman Computer Science major at RIT. I've been devoting most of my time in the last 7 years to programming, doing my best to learn along the way. My stuff is usually stupid or useless, sometimes a healthy mix of both.
+My name is Adam Yarris, a sophomore Computer Science major at RIT. I've been devoting most of my time in the last 7 years to programming, doing my best to learn along the way. My stuff is usually stupid or useless, sometimes a healthy mix of both.
