@@ -11,4 +11,6 @@
 
 <br>
 
-My name is Adam Yarris, a sophomore Computer Science major at RIT. I've been devoting most of my time in the last 8 years to programming, doing my best to learn along the way. My stuff is usually stupid or useless, sometimes a healthy mix of both.
+My name is Adam Yarris, a third year Computer Science major at RIT. I've devoted too much of my life to programming, doing my best to learn along the way. My stuff is usually stupid or useless, sometimes a healthy mix of both.
+
+I am currently an intern at [Liberty Mutual](https://libertymutual.com/)'s TechStart program, and also the internal developer at [WITR](https://witr.rit.edu/).
