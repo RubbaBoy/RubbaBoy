@@ -11,6 +11,4 @@
 
 <br>
 
-My name is Adam Yarris, a third year Computer Science major at RIT. I've devoted too much of my life to programming, doing my best to learn along the way. My stuff is usually stupid or useless, sometimes a healthy mix of both.
-
-I am currently the internal developer at [WITR](https://witr.rit.edu/).
+My name is Adam Yarris, a Firmware Engineer at Biamp and a Computer Science graduate from RIT. I've devoted too much of my life to programming, doing my best to learn along the way. My stuff is usually stupid or useless, sometimes a healthy mix of both.
